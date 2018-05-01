@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pouchdb": "^6.4.3",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/pouchdb": "^6.3.2"
+  }
+}
